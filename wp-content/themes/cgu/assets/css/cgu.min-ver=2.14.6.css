@@ -368,7 +368,7 @@ h3 {
   .h3,
   blockquote,
   h3 {
-    font-size: 1.62rem;
+    font-size: 1.25rem;
   }
 }
 .filter-section__term,
@@ -1741,6 +1741,7 @@ caption {
 .dropdown__title a,
 .u-link-black {
   color: #000 !important;
+  cursor: default;
 }
 .dropdown__title a:hover,
 .u-link-black:hover {
@@ -3885,6 +3886,10 @@ th {
   }
   .has-sidebar .page-content:last-child {
     margin-left: 0;
+  }
+
+  .has-sidebar .page-content.all {
+    width: 100%;
   }
 }
 .page-header {
