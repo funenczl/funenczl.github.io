@@ -44,7 +44,7 @@ pre {
   max-width: 100%;
 }
 html {
-  font-family: sans-serif;
+  font-family: "Microsoft YaHei", sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -286,7 +286,7 @@ button,
 input,
 select,
 textarea {
-  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B', GothamNarrow-Book,
+  font-family: 'Microsoft YaHei', 'Gotham Narrow SSm A', 'Gotham Narrow SSm B', GothamNarrow-Book,
     Arial, sans-serif;
   font-weight: 400;
   color: #000;
@@ -303,7 +303,7 @@ h2 {
   margin-top: 1.5rem;
   margin-bottom: 0;
   font-weight: 500;
-  font-family: 'Mercury SSm A', 'Mercury SSm B', Mercury, Georgia, serif;
+  font-family: 'Microsoft YaHei', 'Mercury SSm A', 'Mercury SSm B', Mercury, Georgia, serif;
 }
 .h1,
 h1 {
@@ -336,7 +336,7 @@ h2 {
 blockquote,
 h3,
 h4 {
-  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B', GothamNarrow-Book,
+  font-family: 'Microsoft YaHei', 'Gotham Narrow SSm A', 'Gotham Narrow SSm B', GothamNarrow-Book,
     Arial, sans-serif;
   text-transform: none;
   letter-spacing: 0;
@@ -406,7 +406,7 @@ h4 {
 h5 {
   margin-top: 1.5rem;
   margin-bottom: 0;
-  font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
   font-size: 0.88rem;
   line-height: 1.3em;
   font-weight: 500;
@@ -420,7 +420,7 @@ h6,
 label {
   margin-top: 1.5rem;
   margin-bottom: 0;
-  font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
   font-size: 0.75rem;
   line-height: 1.4em;
   font-weight: 700;
@@ -478,7 +478,7 @@ i {
   font-style: italic;
 }
 blockquote {
-  font-family: 'Mercury SSm A', 'Mercury SSm B', Mercury, Georgia, serif;
+  font-family: 'Microsoft YaHei', 'Mercury SSm A', 'Mercury SSm B', Mercury, Georgia, serif;
   font-weight: 500;
   margin: 3rem 0;
 }
@@ -559,7 +559,7 @@ hr {
   box-shadow: none;
   color: #000;
   display: inline-block;
-  font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
   font-weight: 500;
   font-size: 0.88rem;
   padding: 1.25em 2.5em;
@@ -2703,16 +2703,16 @@ body.overlay-open {
 .reason .number,
 .u-font-gotham,
 .video__cta-text {
-  font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
 }
 .section-cta,
 .u-font-gotham-narrow {
-  font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B', GothamNarrow-Book,
+  font-family: 'Microsoft YaHei', 'Gotham Narrow SSm A', 'Gotham Narrow SSm B', GothamNarrow-Book,
     Arial, sans-serif;
 }
 .student-q-a .question:before,
 .u-font-mercury {
-  font-family: 'Mercury SSm A', 'Mercury SSm B', Mercury, Georgia, serif;
+  font-family: 'Microsoft YaHei', 'Mercury SSm A', 'Mercury SSm B', Mercury, Georgia, serif;
   font-weight: 500;
 }
 .u-span-3 {
@@ -4134,7 +4134,7 @@ body.home .header-carousel {
     border-radius: 0;
     box-shadow: none;
     display: inline-block;
-    font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
+    font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
     font-weight: 500;
     font-size: 0.88rem;
     padding: 1.25em 2.5em;
@@ -4646,7 +4646,7 @@ body.home .header-carousel {
 .wp-playlist-item .wp-playlist-caption,
 .wp-playlist-item-length,
 .wp-playlist-item-title {
-  font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif !important;
+  font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif !important;
   font-size: 0.88rem !important;
   line-height: 1.3em !important;
   font-weight: 500 !important;
@@ -5012,7 +5012,7 @@ body.home .header-carousel {
     border-radius: 0;
     box-shadow: none;
     display: inline-block;
-    font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
+    font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
     font-weight: 500;
     font-size: 0.88rem;
     padding: 1.25em 2.5em;
@@ -6008,7 +6008,7 @@ input#tribe-bar-search {
 }
 .global-nav-ui .request-info {
   display: none;
-  font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'Gotham SSm A', 'Gotham SSm B', Gotham, Arial, sans-serif;
   font-size: 0.88rem;
   font-weight: 500;
   line-height: 2.75rem;
@@ -7132,4 +7132,7 @@ input#tribe-bar-search {
   .story__lower-content:last-child {
     margin-right: 0;
   }
+}
+.translate{
+  color: #e6a23c;
 }
