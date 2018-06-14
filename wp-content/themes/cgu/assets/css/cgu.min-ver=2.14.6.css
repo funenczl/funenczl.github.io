@@ -368,7 +368,7 @@ h3 {
   .h3,
   blockquote,
   h3 {
-    font-size: 1.25rem;
+    font-size: 1.62rem;
   }
 }
 .filter-section__term,
@@ -7134,5 +7134,5 @@ input#tribe-bar-search {
   }
 }
 .translate{
-  color: #e6a23c;
+  /* color: #e6a23c; */
 }
